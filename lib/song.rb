@@ -30,7 +30,7 @@ class Song
       if @@genres[key] == key
         key += 1 
       else
-        @@genres
+        #hash[key]
     end 
   end 
   
