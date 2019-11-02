@@ -31,6 +31,7 @@ class Song
         key += 1 
       else
         #hash[key]
+      end 
     end 
   end 
   
